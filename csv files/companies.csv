@@ -1,0 +1,499 @@
+company_name,url,city,state,country,employees,founded,Industry,estimated_revenues,job_openings,keywords,LeadInvestors,Accelerator,btype,valuation,total_funding,growth_percentage
+OpenAI,openai.com,San Francisco,CA,United States,655,2015.0,AI,88722200.0,25.0,"Artificial Intelligence, Online Gaming, Non Profit","Thrive, Founders Fund",,,29000000000.0,11000000000.0,1.18
+Alchemy,alchemy.com,San Francisco,CA,United States,201,,Fintech,39269750.0,1.0,,"Lightspeed, Silver Lake",,,10200000000.0,564000000.0,1.34
+dbt Labs,getdbt.com,Philadelphia,PA,United States,511,2016.0,Analytics,76987400.0,1.0,,Altimeter,,,4200000000.0,414400000.0,0.76
+Kindbody,kindbody.com,New York,NY,United States,621,2018.0,Digital Health,105791000.0,38.0,"Healthcare, Medical, Women-Focused, Corporate Wellness, Health and Wellness, Healthcare Services, Fertility",,,,1800000000.0,125300000.0,0.44
+Anthropic,anthropic.com,San Francisco,CA,USA,131,,AI,15400000.0,1.0,,,,,4400000000.0,1300000000.0,1.38
+Sentry,sentry.io,San Francisco,CA,United States,378,2011.0,Analytics,63119000.0,39.0,saas,"Bond, Accel",,,3000000000.0,127000000.0,0.36
+Axonius,axonius.com,New York,NY,United States,628,2017.0,IT Security,170733720.0,28.0,cybersecurity asset management,Accel,,,2600000000.0,665000000.0,0.52
+Drata,drata.com,San Diego,CA,United States,427,2020.0,IT Security,116067840.0,1.0,saas,"Iconiq Growth, GGV",,,2000000000.0,128199999.99999999,1.11
+Payhawk,payhawk.com,London,UK,UK,269,2018.0,Fintech,39409500.0,1.0,,Lightspeed Venture Partners,,,1000000000.0,239100000.0,2.28
+Binance.US,binance.us,San Francisco,CA,United States,459,2019.0,Fintech,79578200.0,1.0,,RRE Ventures,,,4500000000.0,200000000.0,0.52
+RAMP,ramp.com,New York,NY,United States,538,2006.0,Fintech,93281500.0,21.0,saas,Founders Fund,,,8100000000.0,1400000000.0,0.99
+CAIS,caisgroup.com,New York,NY,United States,299,2009.0,Fintech,51841400.0,1.0,"Financial Services, Technology, Finance Technology","Franklin Templeton, Motive Partners. Apollo Global Management",,,1000000000.0,406000000.0,0.63
+RapidAPI,rapidapi.com,San Francisco,CA,United States,266,2015.0,DevOps,36421000.0,26.0,"devops, saas",Softbank,,,1000000000.0,122500000.0,0.5
+Ava Labs,avalabs.org,Brooklyn,NY,United States,295,2018.0,Fintech,41366000.0,1.0,,Polychain Capital,,,5250000000.0,230000000.0,0.28
+Cribl,cribl.io,San Francisco,CA,United States,497,2017.0,Analytics,92811600.0,10.0,saas,Tiger,,,2500000000.0,402200000.0,0.49
+Hugging Face,huggingface.co,New York,NY,United States,200,2016.0,AI,31605000.0,1.0,"Open Source, Machine Learning, Artificial Intelligence, Natural Language Processing, Technology",Lux Capital,,,2000000000.0,60200000.0,0.49
+Mysten Labs,mystenlabs.com,San Francisco,CA,United States,117,2021.0,Fintech,22919000.0,1.0,,FTX Ventures,,,2000000000.0,,2.55
+Weka.IO,weka.io,Campbell,CA,United States,325,2014.0,AI,62795150.0,6.0,"Data Storage,Physical Storage,Storage",Generation Investment Management,,B2B,750000000.0,158900000.0,1.14
+Monte Carlo,montecarlodata.com,San Francisco,CA,United States,294,,Analytics,35668500.0,1.0,saas,IVP,,,1600000000.0,101000000.0,0.95
+Fireblocks,fireblocks.com,New York,NY,United States,567,2018.0,Fintech,92621100.0,10.0,saas,"D1 Capital Partners, Spark Capital",,,8000000000.0,1000000000.0,0.35
+Aptos,aptoslabs.com,Palo Alto,CA,United States,181,2021.0,Fintech,28788500.0,1.0,,a16z,,,1400000000.0,,2.62
+Rokt,rokt.com,New York,NY,United States,533,2010.0,Martech,89611200.0,58.0,"Marketplace,Advertising,Analytics,Marketing,Marketing Analytics",Square Peg,,B2B,2400000000.0,487000000.0,0.32
+Coalition,coalitioninc.com,San Francisco,CA,United States,601,2017.0,Fintech,98399600.0,1.0,,"Allianz X, Valor Equity Partners, Kinetic partners",,,5000000000.0,770000000.0,0.39
+Pave,pave.com,San Francisco,CA,United States,196,2019.0,Fintech,28788500.0,1.0,,Index Ventures,,,1600000000.0,63000000.0,0.73
+OpenSpace,openspace.ai,SAN FRANCISCO,CA,United States,322,2017.0,Tech Services,46450750.0,3.0,,PSP Growth,,,902000000.0,88500000.0,0.44
+Timescale,timescale.com,New York,NY,United States,153,2015.0,Analytics,24230500.0,1.0,saas,Tiger Global,,,1000000000.0,181100000.0,0.55
+Unit,unit.co,San Francisco,CA,United States,148,2019.0,Fintech,21661250.0,1.0,,Insight,,,1200000000.0,170000000.0,1.28
+Tailscale,tailscale.com,Toronto,ON,CAN,69,2019.0,Tech Services,9082800.0,1.0,,"CRV, Insight Partners",,,1000000000.0,,0.97
+Chronosphere,chronosphere.io,New York,NY,United States,344,2019.0,Analytics,55829200.0,13.0,"saas, observability, monitoring, cloud-native","GV, Geodesic Capital",,,1600000000.0,254400000.0,0.71
+Motto Mortgage,mottomortgage.com,Denver,CO,United States,384,2016.0,Real Estate,79125000.0,2.0,,,,,,,0.14
+Eldridge Industries,eldridge.com,Greenwich,CT,United States,103,,Finance,22680000.0,1.0,,,,,3000000000.0,1400000000.0,0.26
+Flutterwave,flutterwave.com,San Francisco,CA,United States,751,2016.0,Fintech,146675100.0,38.0,,B Capital,Y Combinator,,3000000000.0,474500000.0,0.47
+Lukka,lukka.tech,New York,NY,United States,179,2014.0,Fintech,35077250.0,1.0,,"Liberty City Ventures, Soros Fund Management, Summer Capital",,,1300000000.0,201300000.0,0.33
+BlueVoyant,bluevoyant.com,New York,NY,United States,584,2017.0,IT Security,158816040.0,52.0,,Liberty Strategic Capital,,,1000000000.0,525500000.0,0.24
+SparkCognition,sparkcognition.com,Austin,TX,United States,359,2013.0,AI,67030600.0,1.0,,"March Capital, Doha Venture Capital, B. Riley Venture Capital",,,1400000000.0,286600000.0,0.14
+Vendr,vendr.com,Boston,MA,United States,452,,Tech Services,87471250.0,1.0,,"Craft Ventures, SoftBank Vision Fund 2",,,1000000000.0,132000000.0,0.71
+NexHealth,nexhealth.com,San Francisco,CA,United States,275,2015.0,Digital Health,43494500.0,21.0,saas,Buckley Ventures,,,1000000000.0,51800000.0,1.02
+Zip,ziphq.com,San Francisco,CA,United States,640,2020.0,Fintech,113920000.0,1.0,,Y Combinator,,,1500000000.0,81000000.0,1.04
+Imply,imply.io,Burlingame,CA,United States,251,,DevOps,39732000.0,24.0,"Analytics,Software Development","Andreessen Horowitz, Bessemer Venture Partners, Khosla Ventures,",,B2B,1100000000.0,215300000.0,0.14
+Liquid Death Mountain Water,liquiddeath.com,Santa Monica,CA,United States,210,2017.0,Food,64145250.0,1.0,"Food and Beverages, Ecommerce",,,,525000000.0,130600000.0,0.62
+Replicant,replicant.ai,San Francisco,CA,United States,152,2017.0,AI,24080000.0,8.0,"Machine Learning, Artificial Intelligence, Call Center Automation",Stripes,,,550000000.0,35000000.0,0.5
+Jasper,jasper.ai,Austin,TX,United States,411,2020.0,AI,65608200.0,,,Insight Partners,,,1500000000.0,,3.78
+Material Security,material.security,Redwood City,CA,United States,64,2017.0,Tech Services,8452050.0,1.0,,Founders Fund,,,1100000000.0,,0.88
+Branch,ourbranch.com,Columbus,OH,United States,430,2018.0,Fintech,74625200.0,7.0,,Weatherford Capital,,,1050000000.0,609100000.0,0.73
+Retool,retool.com,San Francisco,CA,United States,345,2017.0,DevOps,64363600.0,1.0,,Sequoia,,,3200000000.0,96000000.0,1.16
+Glia,glia.com,New York,NY,United States,338,2012.0,AI,63119000.0,1.0,saas,Insight,,,1000000000.0,107000000.0,0.56
+Bank Novo,banknovo.com,Miami,FL,United States,350,2016.0,Fintech,55308500.0,1.0,"Financial Services, Small and Medium Businesses, Banking, Sme Banking, Fin Tech",,,,700000000.0,46000000.0,0.66
+Island,island.io,Dallas,TX,United States,166,2020.0,IT Security,38158200.0,1.0,,Insight Partners,,,1300000000.0,100000000.0,0.75
+MoEngage,moengage.com,San Francisco,CA,United States,786,2014.0,Martech,165165000.0,43.0,saas saas,,,,700000000.0,133000000.0,0.43
+Unlearn.AI,unlearn.ai,San Francisco,CA,United States,72,2017.0,AI,10640000.0,1.0,,"Radical Ventures, Wittington Ventures",,,265000000.0,15000000.0,0.85
+Mercer Advisors,merceradvisors.com,Denver,CO,United States,743,1985.0,Investments,253195800.0,4.0,Finance,,,,,8700000.0,0.27
+Amberdata,amberdata.io,Palo Alto,CA,United States,62,2017.0,Analytics,7917000.0,1.0,,Knollwood Investment Advisory,,,330000000.0,,0.82
+BigPanda,bigpanda.io,Mountain View,CA,United States,385,2012.0,DevOps,71831200.0,6.0,"saas, Software Development","Advent International, Battery Ventures, Sequoia Capital Israel",,,1200000000.0,317000000.0,0.89
+Magic Eden,magiceden.io,Mountain View,CA,United States,134,2021.0,Fintech,19704750.0,1.0,,Electric Capital,,,1600000000.0,,0.6
+Hasura,hasura.io,San Francisco,CA,United States,168,2017.0,DevOps,26488000.0,1.0,"Developer APIs, Developer Tools, Cloud Infrastructure",Greenoaks,,,1000000000.0,136500000.0,0.56
+Talos,talos.com,New York,NY,United States,125,2018.0,Fintech,24456250.0,1.0,,General Atlantic,,,1250000000.0,,1.4
+CoinTracker,cointracker.io,San Francisco,CA,United States,89,2017.0,Fintech,16250000.0,1.0,,"Accel, Coinbase Ventures, Kraken Ventures, Intuit Ventures",,,1300000000.0,101600000.0,0.53
+Acorns,acorns.com,Irvine,CA,United States,515,2012.0,Fintech,89319100.0,3.0,"Banking,Finance,Mobile",TPG,,B2C,2000000000.0,507000000.0,0.11
+FalconX,falconx.io,San Mateo,CA,United States,251,2018.0,Fintech,36894000.0,15.0,"Finance Technology, Bitcoin, Fin Tech, Blockchain / Cryptocurrency","GIC, B Capital",,,8000000000.0,477000000.0,0.31
+Vanta,vanta.com,San Francisco,CA,United States,358,2016.0,Tech Services,69240400.0,1.0,,Craft Ventures,,,1400000000.0,53000000.0,0.78
+Fabric,fabric.inc,Seattle,WA,United States,414,2017.0,eCommerceTech,77343000.0,32.0,saas,Vision Fund 2,,,1500000000.0,293500000.0,0.16
+SingleStore,singlestore.com,San Francisco,CA,United States,430,,Analytics,80365600.0,53.0,saas,Goldman Sachs,,,1000000000.0,434100000.0,0.23
+Transcarent,transcarent.com,San Francisco,CA,United States,246,,Digital Health,38829000.0,1.0,,,,,1600000000.0,298000000.0,0.24
+CommerceIQ,commerceiq.ai,Mountain View,CA,United States,398,,Tech Services,75037500.0,1.0,,"Trinity Ventures, Madrona Venture Group, Shasta Ventures",,,1000000000.0,195500000.0,0.65
+Cresta,cresta.com,San Francisco,CA,United States,206,2017.0,AI,32508000.0,10.0,,"Tiger Global, Zoom, Five9",,,1600000000.0,71000000.0,0.32
+Flipside Crypto,flipsidecrypto.xyz,Boston,MA,United States,111,2017.0,Fintech,15210000.0,1.0,,Republic Capital,,,350000000.0,,0.5
+Mutiny,mutinyhq.com,San Francisco,CA,United States,94,2018.0,Analytics,13860000.0,1.0,,"Tiger Global, Insight Partners",,,600000000.0,,1.29
+Phantom Wallet,phantom.app,San Francisco,CA,United States,75,2021.0,Fintech,13650000.0,1.0,,"Paradigm, Andreessen Horowitz",,,1200000000.0,22700000.0,1.14
+Omada Health,omadahealth.com,San Francisco,CA,United States,678,2011.0,Digital Health,142542400.0,55.0,"Consulting,Enterprise Software,Healthcare,Healthcare Providers,Human Resources Hr,Pharmaceuticals","Cigna, Civilization Ventures",,B2B,1000000000.0,256500000.0,0.1
+Digits,digits.com,San Francisco,CA,United States,62,,Fintech,7351500.0,1.0,,SoftBank's Vision Fund,,,565000000.0,32500000.0,0.38
+Mos.com,mos.com,San Francisco,CA,United States,88,2017.0,Fintech,11960000.0,1.0,,Tiger Global,,,400000000.0,57300000.0,0.33
+Beyond Identity,beyondidentity.com,New York,NY,United States,183,2020.0,IT Security,42105600.0,27.0,,"Evolution Equity Partners, New Enterprise Associates, Potentum Partners, Expanding Capital",,,1100000000.0,205000000.0,0.03
+Cirkul,drinkcirkul.com,Tampa,FL,United States,139,,Food,54945000.0,1.0,,"AF Ventures, Siddhi Capital, SC.Holdings",,,1070000000.0,111600000.0,1.01
+Uniphore,uniphore.com,Palo Alto,CA,United States,841,2008.0,AI,176776600.0,114.0,saas,NEA,,,2500000000.0,620900000.0,0.12
+QuickNode,quicknode.com,Miami,FL,United States,114,2017.0,Analytics,16800000.0,1.0,,10T Fund,,,800000000.0,,2.0
+Temporal Technologies,temporal.io,Bellevue,WA,United States,118,2019.0,Tech Services,17980000.0,1.0,,"Greenoaks, Index Ventures",,,1500000000.0,128500000.0,0.93
+hibob,hibob.com,New York,NY,United States,742,2015.0,Fintech,144816100.0,1.0,"Business Process Management,Human Resources Hr",General Atlantic,,B2B,2450000000.0,274000000.0,0.75
+0x,0x.org,San Francisco,CA,United States,126,2016.0,Fintech,24596000.0,1.0,"Cryptocurrency, Blockchains","Jump Capital, Pantera Capital, Greylock Partners",,,1050000000.0,109000000.0,0.91
+Starburst,starburst.io,Boston,MA,United States,639,2017.0,Analytics,119303800.0,1.0,"saas, database","Alkeon Capital Management LLC, Altimeter Capital Management LP, B Capital Group US LLC.",,,3350000000.0,414000000.0,0.59
+CertiK,certik.io,New York,NY,United States,242,,AI,39886000.0,1.0,,"Tiger Global Management, Lightspeed Venture Partners, Hillhouse Capital Management",,,2000000000.0,300200000.0,0.67
+Voyager,investvoyager.com,Jersey City,NJ,United States,119,,Finance,33033000.0,1.0,,,,,1400000000.0,100100000.0,0.49
+Tally Technologies,meettally.com,San Francisco,CA,United States,216,2015.0,Fintech,31723250.0,5.0,"Financial Services, Mobile Application",Sway Ventures,,,855000000.0,92000000.0,0.3
+Atlan,atlan.com,New York,NY,United States,251,,Tech Services,41151000.0,1.0,,Salesforce Ventures,,,450000000.0,65000000.0,0.89
+Chainalysis,chainalysis.com,New York,NY,United States,901,2014.0,Fintech,234419900.0,60.0,"saas, Analytics,Banking,Finance,Information Security,Payments,Security",GIC,TechStars,B2B,8600000000.0,536600000.0,0.68
+Luminous Computing,luminous.com,Mountain View,CA,United States,127,,AI,18620000.0,1.0,,"Bill Gates, Gigafund",,,300000000.0,105000000.0,0.27
+Worldcoin,worldcoin.org,San Francisco,CA,United States,180,2019.0,Tech Services,29460375.0,1.0,,Andreessen Horowitz,,,3000000000.0,,0.55
+Athletic Greens,athleticgreens.com,Las Vegas,NV,United States,245,2009.0,Digital Health,38678500.0,1.0,"Healthcare, E-Commerce, Consumer Goods, Fitness, Personal Health, Health and Wellness",Alpha Wave Global,,,1200000000.0,115000000.0,0.67
+Bilt Rewards,biltrewards.com,New York,NY,United States,88,2021.0,Finance,19320000.0,1.0,,Left Lane,,,1500000000.0,63300000.0,0.6
+Wiz,wiz.io,New York,NY,United States,890,2020.0,IT Security,180578760.0,1.0,,"Insight Partners, Sequoia Capital, Index Ventures",,,10000000000.0,600000000.0,1.22
+CareBridge,carebridgehealth.com,Nashville,TN,United States,205,2019.0,Hospital/Healthcare,78408000.0,1.0,,"Bain Capital Ventures, Splunk Ventures, Cisco Investments",,,1000000000.0,180000000.0,0.55
+Immuta,immuta.com,Boston,MA,United States,290,2014.0,AI,54229000.0,1.0,"Analytics,Data Storage,Enterprise Software,Information Security,Marketing,Marketing Analytics,Security,Storage saas",NightDragon,,B2B,1000000000.0,158200000.0,0.24
+MoonPay,moonpay.com,Miami,FL,United States,291,2018.0,Fintech,67195700.0,1.0,,"Justin Bieber, Gwyneth Paltrow",,,3400000000.0,642000000.0,0.19
+Harness,harness.io,San Francisco,CA,United States,860,2016.0,eCommerceTech,180780600.0,61.0,"ecommerce, saas",Norwest Venture Partners,,,3700000000.0,425000000.0,0.41
+TheWrap,thewrap.com,Los Angeles,CA,United States,74,2009.0,Tech Services,11310000.0,1.0,"Entertainment, News, Blogging Platforms",,,,2500000000.0,3500000.0,0.23
+Axios HQ,axioshq.com,Arlington,TX,United States,95,2022.0,AI,14000000.0,1.0,,Glade Brook Capital Partners,,,100000000.0,,2.06
+Newfront Insurance,newfront.com,San Francisco,CA,United States,793,,Fintech,154854700.0,1.0,saas,"Founders Fund, Meritech Capital Partners, GS Growth",,,2200000000.0,310000000.0,0.13
+Veza,veza.com,San Francisco,CA,United States,118,2020.0,IT Security,25296000.0,1.0,,Accel,,,500000000.0,,0.44
+Connecteam,connecteam.com,New York,NY,United States,267,2014.0,Tech Services,43645000.0,1.0,,"Stripes, Insight",,,800000000.0,158000000.0,0.7
+OpenStore,open.store,Miami,FL,United States,135,2021.0,Tech Services,22134250.0,1.0,,Lux,,,970000000.0,,1.5
+Stax,staxpayments.com,Orlando,FL,United States,238,2014.0,Fintech,34937500.0,1.0,,Blue Star,,,1000000000.0,,0.17
+CHEQ,cheq.ai,New York,NY,United States,258,2016.0,IT Security,59430300.0,1.0,"Advertising, Cyber Security",Tiger Global,,,1000000000.0,182000000.0,0.74
+FlashParking,flashparking.com,Austin,TX,United States,724,2011.0,Tech Services,157586000.0,1.0,,,,,1000000000.0,64300000.0,0.37
+SOURCE Global,source.co,Tempe,AZ,United States,160,2014.0,Environmental,43890000.0,1.0,,"Breakthrough Energy Ventures, Material Impact, 3x5 Special Opportunity Partners",,,1160000000.0,,0.13
+EvolutionIQ,evolutioniq.com,New York,NY,United States,98,2019.0,Analytics,14420000.0,1.0,,Brewer Lane Ventures,,,150000000.0,,1.13
+Wonder,wonder.com,New York,NY,United States,676,2016.0,Food,100570000.0,1.0,,Marc Lore,,,3500000000.0,14000000.0,0.02
+Teleport,goteleport.com,Oakland,CA,United States,223,2015.0,Tech Services,36474750.0,1.0,"Usa, Global",Bessemer,,,1100000000.0,,0.03
+prezent.ai,prezent.ai,Los Altos,CA,United States,101,2021.0,Tech Services,15370000.0,1.0,,Greycroft,,,100000000.0,,1.02
+eSentire,esentire.com,Waterloo,ON,Canada,611,2001.0,IT Security,166329360.0,8.0,"saas, Analytics,Human Resources Hr,Information Security,Network / Hosting / Infrastructure,Physical Security,Security",Georgian,,B2B,1000000000.0,411200000.0,0.18
+UPSIDE Foods,upsidefoods.com,Berkeley,CA,USA,252,,Food,113062500.0,1.0,,"Battery Ventures, Adams Street Partners, Coatue Management",,,1000000000.0,206000000.0,0.24
+Autograph,autograph.io,Santa Monica,CA,United States,117,2021.0,Fintech,15990000.0,1.0,,"Andreessen Horowitz, Kleiner Perkins",,,700000000.0,13300000.0,0.38
+Celestial AI,celestial.ai,Santa Clara,CA,United States,60,2020.0,AI,7673400.0,1.0,,Koch Disruptive Technologies (KDT),,,150000000.0,63900000.0,0.94
+Uniswap,uniswap.org,Brooklyn,NY,USA,131,,Tech Services,20010000.0,1.0,,,,,1660000000.0,,1.18
+Balance,getbalance.com,San Francisco,CA,United States,89,2020.0,Fintech,12090000.0,1.0,,Ribbit Capital,,,365000000.0,30000000.0,0.89
+airSlate,airslate.com,Brookline,MA,United States,678,2018.0,Tech Services,147633200.0,1.0,,UiPath,,,1000000000.0,130000000.0,0.04
+BeyondID,beyondid.com,San Francisco,CA,United States,192,2017.0,Tech Services,31486750.0,1.0,,,,,1000000000.0,9000000.0,0.38
+AutoFi,autofi.com,San Francisco,CA,United States,217,2015.0,eCommerceTech,34314000.0,8.0,"Automotive,Banking,Finance","Santander Holdings USA, SVB Financial Group",500 Startups,B2B,700000000.0,114500000.0,0.19
+Genies,genies.com,Los Angeles,CA,United States,183,2013.0,Tech Services,29928000.0,19.0,saas,Silver Lake,,,1000000000.0,52000000.0,0.21
+Unstoppable Domains,unstoppabledomains.com,San Francisco,CA,United States,153,2018.0,Tech Services,25095875.0,1.0,,Pantera Capital,,,1000000000.0,,0.23
+Fattmerchant,fattmerchant.com,Orlando,FL,United States,238,2014.0,Fintech,34937500.0,7.0,"Banking,Consumer Services,Finance,Payments",Fulcrum Equity Partners,,B2B,1000000000.0,18300000.0,0.17
+Somatus,somatus.com,Vienna,VA,United States,699,,Hospital/Healthcare,283397400.0,57.0,,Flare Capital Partners,,,325000000.0,465100000.0,0.12
+MPOWER Financing,mpowerfinancing.com,Washington,DC,United States,225,2014.0,Fintech,32981000.0,24.0,"Financial Services, Finance, Finance Technology, Higher Education, Education Technology",,,,,375000000.0,0.58
+bttn.,bttnusa.com,Seattle,WA,United States,57,2021.0,Tech Services,7569000.0,1.0,,Tiger Global,,,110000000.0,6500000.0,0.5
+Movable Ink,movableink.com,New York,NY,United States,610,2010.0,Martech,113969800.0,26.0,"E-Commerce,Email,Human Resources Hr,Marketing, saas","Contour Venture Partners, Intel Capital, Silver Lake",,B2B,1360000000.0,97300000.0,0.18
+Finxact,finxact.com,Jacksonville,FL,United States,158,2016.0,Fintech,23198500.0,15.0,,,,,650000000.0,42000000.0,0.24
+Alation,alation.com,Redwood City,CA,United States,744,2012.0,Analytics,156356200.0,29.0,"saas, Analytics,Enterprise Software,Finance,Marketing,Software Development","Thoma Bravo, Sanabil Investments",,B2B,1700000000.0,192000000.0,0.18
+Spotter,spotter.com,Los Angeles,CA,United States,128,2019.0,Tech Services,19430000.0,1.0,,Vision Fund 2,,,1700000000.0,67900000.0,0.68
+LayerZero Labs,layerzero.network,Vancouver,BC,CAN,39,2021.0,Fintech,6220500.0,1.0,,"Andreessen Horowitz, Sequoia Capital. Samsung Next",,,3000000000.0,,0.63
+Jeeves,tryjeeves.com,New York,NY,United States,246,,Fintech,36055500.0,1.0,,Tencent,,,2100000000.0,368000000.0,0.11
+Incredible Health,incrediblehealth.com,San Francisco,CA,United States,141,2017.0,Hospital/Healthcare,42957000.0,1.0,,Base10,,,1650000000.0,,0.57
+Optimism,Optimism.io,San Francisco,CA,United States,37,,Tech Services,4408000.0,,,"Paradigm, Huobi Ventures, Andreessen Horowitz",,,1650000000.0,178500000.0,1.31
+Ampla,getampla.com,New York,NY,USA,110,2018.0,Finance,24360000.0,1.0,,,,,,290000000.0,5.11
+Aleo,aleo.org,Reno,NV,United States,56,,DevOps,7186200.0,1.0,,"Slow Ventures, Andreessen Horowitz, SoftBank Group",,,1450000000.0,228000000.0,0.44
+Front,front.com,San Francisco,CA,United States,491,2013.0,Tech Services,95021400.0,1.0,,"Salesforce, Battery",,,1700000000.0,,0.29
+NEXTracker,nextracker.com,Fremont,CA,United States,637,2013.0,Environmental,178422300.0,1.0,,,,,3400000000.0,547600000.0,0.17
+AI 21,ai21.com,Tel Aviv,IL,Israel,149,2017.0,AI,23478000.0,1.0,,Ahren Innovation Capital Fund,,,664000000.0,,0.82
+Neo Financial,neofinancial.com,Calgary,AB,Canada,854,2019.0,Fintech,166752300.0,660.0,,Valar Ventures,,,779450000.0,91500000.0,0.38
+Kandji,kandji.io,San Diego,CA,United States,309,2018.0,DevOps,57607200.0,25.0,saas,,,,800000000.0,188400000.0,2.86
+JupiterOne,jupiterone.com,Morrisville,NC,United States,191,2018.0,Tech Services,30863250.0,1.0,,Tribe Capital,,,1000000000.0,49000000.0,0.32
+Arcadia,arcadia.com,Washington,DC,United States,918,2014.0,Environmental,289489200.0,1.0,"Internet, Energy, Clean Technology, Clean Energy, Solar, Big Data, Renewable Energies, Smart Home","BoxGroup, Energy Impact Partners, Camber Creek",,,1480000000.0,370500000.0,0.46
+AtoB,atob.co,San Francisco,CA,United States,142,,Fintech,28457000.0,1.0,,,,,800000000.0,257000000.0,0.65
+Reibus International,reibus.com,Atlanta,GA,United States,239,2018.0,Tech Services,39124625.0,1.0,"B2B, Marketplaces, Big Data Analytics",,,,,101700000.0,4.2
+Asana Partners,asanapartners.com,Charlotte,NC,United States,101,2015.0,Real Estate,15900000.0,1.0,,,,,1500000000.0,2600000000.0,0.17
+Ataccama,ataccama.com,Toronto,ON,CAN,462,2007.0,Tech Services,89312750.0,1.0,"Data Storage,Storage, saas",Bain Capital,,B2B,550000000.0,,0.36
+Monroe Capital,monroecap.com,Chicago,IL,United States,210,2004.0,Fintech,24735750.0,3.0,"Banking,Finance",,,B2C,,34000000.0,0.27
+Helm.ai,helm.ai,Menlo Park,CA,United States,58,2016.0,AI,7429800.0,1.0,,Freeman Group,,,431000000.0,69000000.0,0.87
+Kumo.AI,Kumo.AI,San Francisco,CA,United States,43,2021.0,AI,4788000.0,1.0,,Sequoia Capital,,,100000000.0,,1.69
+Optimism,optimism.io,New York,NY,United States,54,2019.0,Tech Services,7190550.0,1.0,,"Andreessen Horowitz, Paradigm",,,1650000000.0,178500000.0,0.69
+Pulley,pulley.com,San Francisco,CA,United States,56,2019.0,Tech Services,7442850.0,1.0,,Founders Fund,,,200000000.0,,0.81
+Tribal Credit,tribal.credit,San Francisco,CA,United States,316,,Fintech,54813200.0,1.0,,,,,,143400000.0,3.1
+Clipboard Health,clipboardhealth.com,San Francisco,CA,United States,895,2016.0,Digital Health,188188000.0,1.0,"Healthcare, Marketplaces, Big Data","Emmett Shear, Initialized Capital",,,1300000000.0,,0.59
+JumpCloud,jumpcloud.com,Louisville,CO,United States,665,2012.0,DevOps,124104400.0,49.0,"Data Storage,Enterprise Software,Human Resources Hr,Information Security,devops, saas","BlackRock, General Atlantic, OpenView, H.I.G. Capital, OurCrowd, and Foundry Group",,B2B,2620000000.0,416700000.0,0.26
+Ramp Network,ramp.network,London,UK,UK,160,2017.0,Fintech,31304000.0,1.0,,Mudabala Capital. Korelya Capital,,,450000000.0,810000000.0,0.32
+GrubMarket,grubmarket.com,San Francisco,CA,United States,122,2014.0,eCommerceTech,17920000.0,1.0,saas,,,,1200000000.0,382100000.0,0.24
+Fleet Device Management,fleetdm.com,San Francisco,CA,United States,42,2020.0,IT Security,6821760.0,1.0,,CRV,,,100000000.0,7000000.0,0.4
+Flipos,flipos.com,Phoenix,AZ,United States,151,,Analytics,25102000.0,1.0,,,,,,200000000.0,3.72
+FreeWire Technologies,freewiretech.com,San Leandro,CA,United States,206,2014.0,Environmental,48762000.0,6.0,"Automotive,Cleantech,Data Storage,Energy,Solar Power,Storage,Wind Power",BP Ventures,,B2B,,105200000.0,0.66
+Capchase,capchase.com,New York,NY,United States,141,,Fintech,20683000.0,1.0,,,,,,949600000.0,0.23
+Deserve,deserve.com,Menlo Park,CA,United States,224,2013.0,Fintech,32841250.0,5.0,"Analytics, Machine Learning, Credit, Banking",,,,,544200000.0,0.21
+Gorgias,gorgias.com,San Francisco,CA,United States,303,2015.0,Tech Services,58559700.0,1.0,,"Transpose Platform, Shopify",,,710000000.0,42400000.0,0.21
+Route App,routeapp.io,Lehi,UT,United States,484,2018.0,Tech Services,93548200.0,37.0,saas,,,,1200000000.0,481900000.0,0.01
+Corvus Insurance,corvusinsurance.com,Boston,MA,United States,294,2017.0,Fintech,51015900.0,45.0,"Machine Learning, Finance, Insurance, Insurance Companies, Property And Casualty Insurance Companies, Insurtech, Artificial Intelligence / Machine Learning",,,,,160800000.0,0.26
+Gauntlet,gauntlet.network,New York,NY,United States,57,2018.0,Fintech,10400000.0,1.0,,Ribbit Capital,,,1000000000.0,,0.5
+Blockdaemon,blockdaemon.com,Los Angeles,CA,United States,256,2017.0,Fintech,59105800.0,1.0,"Data Centers, Big Data, Cloud Infrastructure, Blockchains","Sapphire, Tiger Global",,,3250000000.0,431000000.0,0.04
+Abnormal Security,abnormalsecurity.com,San Francisco,CA,United States,577,2018.0,IT Security,157002480.0,33.0,"Security, Artificial Intelligence",Insight Partners,,,4000000000.0,284000000.0,0.24
+FAT Brands,fatbrands.com,Beverly Hills,CA,United States,139,,Food,54945000.0,1.0,,,,,,,0.23
+TRM Labs,trmlabs.com,San Francisco,CA,United States,189,,Fintech,37033750.0,1.0,,,,,,79900000.0,1.08
+Clayton Dubilier and Rice,cdr-inc.com,New York,NY,United States,257,1978.0,Finance,60952500.0,1.0,"Biotechnology,Cleantech,Finance,Wind Power",,,,,22700000000.0,0.21
+Geneva Financial,genevafi.com,Chandler,AZ,United States,650,2007.0,Finance,182156100.0,179.0,"Banking,Finance",,,,,13600000.0,0.06
+Encamp,encamp.com,Indianapolis,IN,United States,94,2017.0,Tech Services,14355000.0,3.0,,,,,,17200000.0,0.38
+Agree Realty Corporation,agreerealty.com,Bloomfield Hills,MI,United States,88,1971.0,Real Estate,319330000.0,1.0,,,,,4859000000.0,1300000000.0,0.26
+BigID,bigid.com,New York,NY,United States,537,2016.0,IT Security,146121120.0,48.0,"saas, Privacy, Cybersecurity, Enterprise Software, Governance, Data Discovery","BOLDstart Ventures, SAP.iO Fund, Scale Venture Partners",,B2B,1250000000.0,246100000.0,0.17
+Cross River,crossriverbank.com,Fort Lee,NJ,United States,897,2008.0,Fintech,175117800.0,15.0,"Banking,Finance",,,B2B,3000000000.0,908000000.0,0.22
+TRADE X,tradexport.com,Mississauga,ON,Canada,158,,Tech Services,25875250.0,1.0,,,,,,169400000.0,2.95
+Zora,zora.co,Los Angeles,CA,United States,53,2020.0,Fintech,6333600.0,1.0,,Katie Haun's,,,600000000.0,,0.61
+MasterControl,mastercontrol.com,Salt Lake City,UT,United States,786,1993.0,Tech Services,171063750.0,63.0,"Media, saas",,,B2B,1300000000.0,,0.14
+Atom bank,atombank.co.uk,Durham,NC,UK,433,2014.0,Fintech,75120500.0,1.0,,BBVA,,,589630320.0,741600000.0,0.03
+Great Rock Capital,greatrockcapital.com,Westport,CT,United States,29,2015.0,Finance,5880000.0,1.0,,,,,,,0.07
+DarioHealth Corp.,dariohealth.com,New York,NY,United States,246,2011.0,Digital Health,28896000.0,9.0,"Hardware,Healthcare,Medical Devices,Mobile",A.G.P./Alliance Global Partners,,B2B,,169000000.0,0.12
+Revalize,revalizesoftware.com,Jacksonville,FL,United States,349,,Fintech,72637500.0,1.0,,,,,,,4.72
+Dapper Labs,dapperlabs.com,Vancouver,BC,CAN,423,2018.0,Fintech,73304400.0,44.0,"Video Games, Blockchains, Blockchain / Cryptocurrency","Union Square Ventures, Venrock, Andreessen Horowitz",,,7600000000.0,607500000.0,1.21
+Servsys Corporation,servsys.com,Irving,TX,United States,877,2011.0,Tech Services,185136000.0,,,,,,,,7.51
+Upskill,upskill.io,Wolf Trap,VA,United States,26,,Tech Services,1957500.0,1.0,,,,,700000000.0,53400000.0,0.37
+TaxBit,taxbit.com,Draper,UT,United States,235,2018.0,Fintech,34518250.0,1.0,"Finance Technology, Cryptocurrency, Fin Tech, Blockchain / Cryptocurrency",,,,1500000000.0,235800000.0,0.42
+Alexco Environmental Group,alexcoresource.com,Greenwood Village,CO,United States,87,2005.0,Environmental,19110000.0,1.0,,,,,,47900000.0,0.12
+AutoGrid,auto-grid.com,Redwood City,CA,United States,136,2011.0,Analytics,21521500.0,29.0,"Analytics,Cleantech,Data Storage,Energy,Enterprise Software,Hardware,Hardware Peripherals,Internet of Things,Marketing,Solar Power,Storage,Wind Power, saas",Shell Technology Ventures,,B2B,,161000000.0,0.19
+AcreTrader,acretrader.com,Fayetteville,AR,United States,129,,Fintech,17550000.0,1.0,,,,,,57000000.0,0.95
+Doodles,doodles.app,Vancouver,BC,CAN,33,2021.0,Fintech,3458000.0,1.0,,"Alexis Ohanian's 776, FTX",,,704000000.0,,0.94
+Modern Treasury,moderntreasury.com,San Francisco,CA,United States,183,,Fintech,26832000.0,1.0,,,,,2000000000.0,133000000.0,0.79
+The Mortgage Calculator Co,themortgagecalculator.co,Miami,FL,United States,170,2020.0,Finance,47124000.0,1.0,,,,,,,5.07
+Truveta,truveta.com,Seattle area,WA,United States,251,2020.0,Digital Health,42504000.0,1.0,"Healthcare, Health Care Information Technology",,,,,195000000.0,2.92
+solo.io,solo.io,Cambridge,MA,United States,186,2017.0,Analytics,29347500.0,1.0,,,,,1000000000.0,171500000.0,1.19
+Xage Security,xage.com,Palo Alto,CA,United States,72,2016.0,IT Security,15504000.0,1.0,"Security, Enterprise Security, Cyber Security, Connected Devices",,,,,46000000.0,0.85
+Adept,adept.ai,San Francisco,CA,United States,36,,AI,4043200.0,1.0,,General Catalyst,,,1000000000.0,,0.38
+Alexandria Real Estate Equities,are.com,Pasadena,CA,United States,627,1994.0,Real Estate,2010000000.0,1.0,,,,,33617000000.0,8700000.0,0.04
+iCapital Network,icapitalnetwork.com,New York,NY,United States,967,2013.0,Fintech,251708600.0,1.0,"Marketplace,Banking,Enterprise Software,Finance,Human Resources Hr,Information Security,Security",Ping An,,B2B,6000000000.0,729200000.0,0.39
+Heyday,heyday.co,Chicago,IL,United States,192,,eCommerceTech,31878000.0,1.0,,,,,,800000000.0,3.68
+Bowery Farming,boweryfarming.com,New York,NY,United States,530,2015.0,Food,190995300.0,41.0,"Food and Beverages, Agriculture, Food Tech, Food+Tech",GV,,,2300000000.0,646600000.0,0.24
+Tome,beta.tome.app,San Francisco,CA,United States,46,2020.0,AI,5107200.0,1.0,,Lightspeed Venture Partners,,,300000000.0,,0.77
+ConsenSys,consensys.net,Brooklyn,NY,United States,890,2014.0,Fintech,231631400.0,1.0,"Cleantech,Finance,Mobile,Wind Power",ParaFi Capital,,B2B,7000000000.0,725000000.0,0.0
+Notable,notablehealth.com,San Mateo,CA,United States,213,2017.0,Digital Health,33712000.0,1.0,"Health Care Information Technology, Artificial Intelligence",,,,,119200000.0,2.8
+RumbleON,rumbleon.com,Charlotte,NC,United States,165,,Tech Services,26966375.0,4.0,,,,,,332500000.0,0.63
+Salt Security,salt.security,Palo Alto,CA,United States,206,2016.0,IT Security,47368800.0,7.0,,CapitalG,,,1400000000.0,271000000.0,0.19
+Assent Compliance,assentcompliance.com,Ottawa,ON,Canada,968,2005.0,Analytics,203403200.0,5.0,"Data Storage,Enterprise Software,Information Security,Security,Storage","Vista Equity Partners, Warburg Pincus, First Ascent Ventures",,B2B,1000000000.0,533600000.0,0.58
+StorageMart,storage-mart.com,Brooklyn,NY,United States,266,,Real Estate,48345000.0,1.0,,,,,,,0.04
+Pano,pano.ai,San Francisco,CA,United States,47,,AI,5213600.0,1.0,,Initialized Capital,,,90000000.0,,0.68
+Flywheel.io,flywheel.io,Minneapolis,MN,United States,146,,Analytics,23026500.0,3.0,saas,,,,,51000000.0,0.43
+Chipper Cash,chippercash.com,San Francisco,CA,United States,388,2017.0,Fintech,67195700.0,7.0,,,,,2000000000.0,302200000.0,0.22
+Materialize,materialize.com,New York,NY,United States,86,,Tech Services,13050000.0,1.0,,,,,,100500000.0,1.77
+EasyKnock,easyknock.com,New York,NY,United States,127,2016.0,Fintech,24875500.0,16.0,"Real Estate, Financial Services, Fin Tech",,,,,401700000.0,0.23
+Anchorage,anchorage.com,San Francisco,CA,United States,387,2017.0,Fintech,67030600.0,1.0,saas,"Andreessen Horowitz, Blockchain Capital, Lux Capital",,,3000000000.0,487000000.0,0.77
+Flock Safety,flocksafety.com,Atlanta,GA,United States,553,2017.0,IT Security,150525480.0,52.0,,,,,3500000000.0,380600000.0,0.57
+LogicGate,logicgate.com,Chicago,IL,United States,259,,Tech Services,42398000.0,28.0,saas,Jump Capital,TechStars,,,156000000.0,0.21
+YieldStreet,yieldstreet.com,New York,NY,United States,249,2015.0,Fintech,57619900.0,4.0,"Financial Services, Finance, Wealth Management, Invest Online, Online Marketplaces, Fin Tech, Financial Technology, Marketplace Lender",Edison Partners,,,,328500000.0,1.15
+Coralogix,coralogix.com,San Francisco,CA,United States,231,2014.0,DevOps,36571500.0,2.0,saas,,,,,96200000.0,0.86
+Viz.ai,viz.ai,San Francisco,CA,United States,409,2016.0,AI,169726200.0,47.0,,"Tiger Global, Insight",,,1200000000.0,151600000.0,0.08
+Medstar of Michigan,medstarambulance.org,Clinton Township ,MI,United States,346,1993.0,Hospital/Healthcare,150525000.0,1.0,,,,,,,4.86
+Esusu,esusurent.com,New York,NY,United States,167,2016.0,Fintech,24456250.0,1.0,,"Next Play Ventures, Zeal Capital Partners, SoftBank Group",,,1000000000.0,145000000.0,0.27
+Mem Labs,mem.ai,Los Altos Hills,CA,United States,43,2019.0,AI,4788000.0,1.0,,"Kevin Moody, Dennis Xu",,,110000000.0,,0.43
+Jellyfish,jellyfish.co,Boston,MA,United States,209,2017.0,Tech Services,34136625.0,1.0,,,,,,114500000.0,2.54
+Pie Insurance,pieinsurance.com,Washington,DC,United States,461,2017.0,Fintech,79908400.0,24.0,"Small and Medium Businesses, Insurance, Finance Technology, Fin Tech, Insurtech",,,,,306000000.0,0.29
+Ethos Life,ethoslife.com,San Francisco,CA,United States,572,,Tech Services,110674150.0,1.0,,,,,2700000000.0,406500000.0,0.16
+Trovata.io,trovata.io,San Diego,CA,United States,128,2016.0,Fintech,17420000.0,1.0,,,,,,30600000.0,0.45
+Infusion for Health,infusionforhealth.com,Thousand Oaks,CA,United States,78,2015.0,Hospital/Healthcare,27270000.0,1.0,,,,,,,3.88
+Observe.AI,observe.ai,San Francisco,CA,United States,273,2017.0,Analytics,43193500.0,33.0,"SaaS, CCaaS, contact center AI","Menlo Ventures, Next47, NGP Capital, Scale Ventures, Nexus Ventures, Emergent Ventures, Steadview Ventures, 01 Ventures, Y-Combinator",,,,89000000.0,0.14
+Arcline Investment Management,arcline.com,Nashville,TN,United States,53,2018.0,Investments,11059440.0,1.0,,,,,,,0.08
+Claroty,claroty.com,New York,NY,United States,424,2014.0,IT Security,115290600.0,1.0,"Information Security,Physical Security,Security",Temasek,,B2B,1000000000.0,640000000.0,0.32
+At-Bay,at-bay.com,Mountain View,CA,United States,273,2016.0,Fintech,40108250.0,23.0,"Insurance, Cyber, Cyber Security, Insurtech",,,,1350000000.0,292000000.0,0.44
+MAI Capital Management,mai.capital,Cleveland,OH,United States,305,,Finance,85344000.0,1.0,,,,,,,0.23
+InterWell Health,interwellhealth.com,Waltham,MA,United States,270,2019.0,Hospital/Healthcare,117450000.0,1.0,,,,,,,4.51
+Dragos,dragos.com,Hanover,MD,United States,580,2016.0,IT Security,157779720.0,65.0,saas,Canaan,,,1700000000.0,364200000.0,0.32
+Drip Capital,dripcapital.com,Palo Alto,CA,United States,376,2015.0,Fintech,65214500.0,28.0,Fin Tech,,,,,375100000.0,0.8
+PosiGen,posigen.com,Jefferson,LA,United States,362,2011.0,Environmental,101346000.0,34.0,"Cleantech,Energy,Oil & Gas,Solar Power,Wind Power",Stonehenge Growth Capital,,B2B,,223000000.0,0.22
+Misfits Market,misfitsmarket.com,Delanco,NJ,United States,381,2018.0,Food,137160000.0,21.0,"Groceries, Sustainability","Accel, D1 Capita Partners, Greenoaks Capital Management",,,2000000000.0,526500000.0,0.22
+Coldwell Banker Harris McHaney and Faucette,coldwellbanker.com,Fayetteville,AR,United States,317,1956.0,Real Estate,65437500.0,1.0,,,,,,,0.04
+High Street,highstreetpartners.com,Traverse City,MI,United States,79,2018.0,Fintech,13130000.0,1.0,,,,,,,0.32
+The Riverside Company,riversidecompany.com,New York,NY,United States,440,1988.0,Investments,133189980.0,3.0,"Finance,Human Resources Hr,Telecommunications",,,B2B,,12000000.0,0.09
+Saasvaap,saasvaap.com,Santa Clara,CA,United States,136,2016.0,Tech Services,35000000.0,1.0,,,,,,,4.44
+Monogram Health,monogramhealth.com,Nashville,TN,United States,407,2019.0,Hospital/Healthcare,146418300.0,1.0,,,,,,172000000.0,0.91
+Vercel,vercel.com,San Francisco,CA,United States,434,2015.0,DevOps,92575000.0,1.0,,,,,2500000000.0,313000000.0,0.87
+EP Wealth Advisors,epwealth.com,Torrance,CA,United States,287,2004.0,Fintech,49695100.0,13.0,,Wealth Partners Capital Group,,,,,0.32
+AppOmni,appomni.com,San Francisco,CA,United States,149,2018.0,IT Security,34210800.0,1.0,saas,,,,,53000000.0,0.48
+Moxion Power Co.,moxionpower.com,Mill Valley,CA,United States,132,2020.0,Environmental,36267000.0,1.0,,,,,,,3.0
+TaskHuman,taskhuman.com,Saratoga,CA,United States,486,2017.0,Fintech,101075000.0,1.0,,,,,,,3.05
+PlanetScale,planetscale.com,Mountain View,CA,United States,101,2018.0,Tech Services,15370000.0,1.0,saas,,,,,105000000.0,0.98
+Sitetracker,sitetracker.com,Palo Alto,CA,United States,363,2013.0,eCommerceTech,67741800.0,28.0,saas,National Grid Partners (NG,,,,87000000.0,0.09
+Watershed,watershedclimate.com,San Francisco,CA,United States,221,,Tech Services,36685000.0,1.0,,,,,,,2.95
+Lattice,lattice.com,San Francisco,CA,United States,712,2015.0,Analytics,149749600.0,61.0,saas,"Khosla Ventures, Thrive Capital, Y Combinator",,,3000000000.0,160500000.0,0.33
+Solid Power,solidpowerbattery.com,Louisville,CO,United States,160,2011.0,Environmental,37926000.0,1.0,,,,,,381500000.0,0.65
+ColorStack,colorstack.org,Freeport,NY,USA,224,2020.0,Tech Services,37163500.0,1.0,,,,,,,4.21
+Human Interest,humaninterest.com,San Francisco,CA,United States,700,2015.0,Fintech,182182000.0,42.0,"saas, E-Commerce,Finance,Human Resources Hr",Wing Venture Capital,Y Combinator,B2B,1000000000.0,336700000.0,0.26
+AltoIRA,altoira.com,Nashville,TN,United States,114,2016.0,Fintech,22360000.0,6.0,"fintech, saas",,,,,70300000.0,0.87
+Snapshots,snapshots.com,Winter Park,FL,United States,83,2012.0,Tech Services,12470000.0,1.0,,,,,,,4.19
+EquityBee,equitybee.com,Palo Alto,CA,United States,97,2017.0,Fintech,13260000.0,12.0,"Finance Technology, Fin Tech",,,,,85300000.0,0.8
+CoreStack,corestack.io,Bellevue,WA,United States,282,2016.0,Tech Services,46139000.0,11.0,saas,,,,,45700000.0,0.73
+MidOcean Partners,midoceanpartners.com,New York,NY,United States,121,2003.0,Investments,28829000.0,1.0,"Finance,Investment Services",,,B2B,,,0.19
+Summus,summusglobal.com,New York,NY,United States,72,2015.0,Digital Health,11060000.0,1.0,,,,,,,2.6
+STAG Industrial,stagindustrial.com,Boston,MA,United States,102,,Real Estate,544490000.0,1.0,"Finance,Real Estate",,,,7629000000.0,200000000.0,0.03
+OctoML,octoml.ai,Seattle,WA,United States,121,,Tech Services,18415000.0,1.0,,,,,,131900000.0,0.3
+Wealth Enhancement Group,wealthenhancement.com,Plymouth,MN,United States,886,1997.0,Fintech,206388000.0,2.0,"Finance,Investment Services",,,B2B,,,0.14
+Skyflow,skyflow.com,Palo Alto,CA,United States,118,,Analytics,17360000.0,5.0,"Analytics, Machine Learning, Privacy, Data Privacy",,,,,70000000.0,1.68
+Golinks,golinks.io,San Jose,CA,United States,84,2017.0,Tech Services,12615000.0,1.0,,,,,,,3.42
+Iteris,iteris.com,Santa Ana,CA,United States,597,2004.0,Tech Services,300000000.0,1.0,,,,,,6500000.0,0.05
+Owner.com,owner.com,Palo Alto,CA,USA,153,,Tech Services,25360500.0,1.0,,,,,,,2.56
+Rexford Industrial,rexfordindustrial.com,Los Angeles,CA,United States,221,2001.0,Real Estate,408180000.0,21.0,Real Estate,,,,11216000000.0,1200000.0,0.18
+Hello Heart,helloheart.com,Palo Alto,CA,United States,215,2013.0,Digital Health,34013000.0,2.0,"Fitness and Wellness,Healthcare,Mobile,Pharmaceuticals",BlueRun Ventures,,B2C,,68200000.0,1.11
+Inxeption,inxeption.com,Brisbane,CA,United States,298,2017.0,eCommerceTech,43193500.0,1.0,,"Coatue Management, BMO Capital, Schonfeld Strategic Advisors",,,3000000000.0,336500000.0,0.25
+Nasuni,nasuni.com,Boston,MA,United States,457,2009.0,Tech Services,88392000.0,19.0,saas,Telstra Ventures,,,,187000000.0,0.28
+Sole Source Capital,solesourcecapital.com,Santa Monica,CA,United States,30,2016.0,Fintech,3952000.0,1.0,,,,,,,0.36
+Steward Partners Global Advisory,stewardpartners.com,Washington,DC,United States,305,2013.0,Fintech,52832000.0,3.0,,,,,,4900000.0,0.09
+Pipe,pipe.com,Miami,FL,United States,216,2019.0,Fintech,31723250.0,5.0,saas,,,,2000000000.0,316000000.0,0.5
+BurnAlong,burnalong.com,Baltimore,MD,United States,94,2016.0,Digital Health,13860000.0,13.0,"Corporate Wellness, Health and Wellness",,,,,16000000.0,0.24
+Picus Security,picussecurity.com,San Francisco,CA,United States,222,2013.0,Tech Services,36318875.0,1.0,,,,,,32000000.0,0.78
+RBCx,rbcx.com,Toronto,ON,CAN,509,2021.0,Finance,160387500.0,,,,,,,,4.53
+RealEstate.com,zillowgroup.com,Seattle,WA,United States,552,,Real Estate,113812500.0,,,,,,,,0.1
+Yellowbrick Data,yellowbrick.com,Palo Alto,CA,United States,170,2014.0,Analytics,26939500.0,5.0,saas,,,,,248000000.0,0.18
+TemperPack,temperpack.com,Richmond,VA,United States,183,,Environmental,43344000.0,11.0,"Bio-Pharm, Sustainability, Consumer Packaged Goods",Revolution Growth,,,,68900000.0,0.15
+Mediafly,mediafly.com,Chicago,IL,United States,221,2006.0,Martech,34916000.0,1.0,"Analytics,Enterprise Software,Human Resources Hr,Marketing,Marketing Analytics saas",Boathouse Capital,,B2B,,59700000.0,0.2
+Distributed Solar Development,dsdrenewables.com,Schenectady,NY,United States,218,2019.0,Environmental,51696750.0,1.0,,,,,,820000000.0,0.2
+New Mountain Capital,newmountaincapital.com,New York,NY,United States,258,1999.0,Investments,66130775.0,1.0,,,,,,54500000.0,0.18
+Alma,helloalma.com,New York,NY,United States,624,2018.0,Digital Health,116459000.0,5.0,"Healthcare, Technology, Health and Wellness, Mental Health",,,,,90500000.0,0.9
+Jackpocket,jackpocket.com,Brooklyn,NY,United States,145,2013.0,Tech Services,23693000.0,2.0,"E-Commerce,Finance,Gaming,Human Resources Hr,Mobile,Payments",Conductive Ventures,,B2C,,249600000.0,0.15
+Greenlight Financial Technology,greenlightcard.com,Atlanta,GA,United States,551,2014.0,Fintech,95592900.0,23.0,,"Relay Ventures, TTV Capital, Canapi Ventures",,,1200000000.0,556500000.0,0.05
+Anyscale,anyscale.com,San Francisco,CA,United States,286,2019.0,AI,45150000.0,1.0,Internet TV,"Andreessen Horowitz, Intel Capital, Foundation Capital",,,1000000000.0,160000000.0,1.01
+Roofstock,roofstock.com,Oakland,CA,United States,469,2015.0,Fintech,108470700.0,2.0,"Marketplace,Investment Services,Real Estate",SoftBank Vision Fund 2,,B2B,1900000000.0,270000000.0,0.04
+Oxford Finance,oxfordfinance.com,Alexandria,VA,United States,78,,Fintech,10660000.0,1.0,,,,,,,0.15
+Kate Farms,katefarms.com,Santa Barbara,CA,United States,229,2012.0,Food,69660000.0,10.0,,,,,,113000000.0,0.11
+Grow Therapy,growtherapy.com,New York,NY,United States,335,2020.0,Hospital/Healthcare,145800000.0,1.0,,,,,,,2.85
+Coin Metrics,coinmetrics.io,Boston,MA,United States,107,,Fintech,14560000.0,1.0,,,,,,22900000.0,0.7
+HUNGRY Marketplace,tryhungry.com,Rosslyn ,VA,United States,273,2016.0,Food,83301750.0,1.0,,,,,,30600000.0,0.41
+Adlumin,adlumin.com,Washington,DC,United States,92,2016.0,Analytics,13580000.0,1.0,,,,,,47900000.0,2.41
+Augury,augury.com,New York,NY,United States,401,2012.0,AI,74853800.0,25.0,"IIoT, AI, ML, Machine Health, Industrial Analytics, Analytics, Hardware, Internet of Things, saas","Insight, First Round, Eclipse, Qumra, Qualcomm Ventures",,B2B,1000000000.0,294000000.0,0.15
+Sayari Labs,sayari.com,Washington,DC,United States,140,2015.0,Tech Services,22913625.0,1.0,,,,,,94700000.0,0.67
+Prime Trust,primetrust.com,Las Vegas,NV,United States,315,2016.0,Fintech,54648100.0,1.0,"Payments, Blockchain / Cryptocurrency",,,,,69000000.0,0.36
+Airbase,airbase.com,San Francisco,CA,United States,303,2017.0,Fintech,52501800.0,12.0,saas,,,,,90500000.0,0.22
+Kitchen United,kitchenunited.com,Pasadena,CA,United States,183,,Food,55728000.0,11.0,,,,,,50000000.0,0.45
+Orca Security,orca.security,Portland,OR,United States,445,2019.0,IT Security,120990360.0,2.0,saas,"Redpoint Ventures, capitalG, ICONIQ Growth",,,1800000000.0,632000000.0,0.39
+Netlify,netlify.com,San Francisco,CA,United States,285,2015.0,DevOps,44999500.0,15.0,"Consulting,Information Security,Network / Hosting / Infrastructure,Security,Software Development, saas","Andreessen Horowitz, Kleiner Perkins Caufield & Byers, EQT Ventures",,B2B,2000000000.0,202100000.0,0.31
+Databook,trydatabook.com,Palo Alto,CA,United States,171,,Tech Services,28057500.0,1.0,,,,,,71000000.0,0.92
+K Health,khealth.ai,New York,NY,United States,402,2016.0,Digital Health,75031600.0,21.0,saas,"Max Ventures, Mangrove Capital Partners, 14W",,,1500000000.0,271300000.0,0.09
+Applied Intuition,appliedintuition.com,Mountain View,CA,USA,322,,Analytics,60096400.0,68.0,saas,"Andreessen Horowitz, Lux Capital, General Catalyst",,,3600000000.0,351500000.0,0.75
+Socotra,socotra.com,San Francisco,CA,United States,197,2014.0,Fintech,28928250.0,7.0,"fintech, saas",,,,,43900000.0,0.3
+VergeSense,vergesense.com,San Francisco,CA,United States,134,,Analytics,21220500.0,16.0,"Hardware, Artificial Intelligence, Sensors, Internet of Things, Commercial Real Estate",,,,,82600000.0,0.47
+Waterplan (YC S21),waterplan.com,San Francisco,CA,United States,72,2020.0,Tech Services,11020000.0,1.0,,,,,,2700000.0,2.27
+Vital,vitaler.com,Atlanta,GA,United States,95,2017.0,AI,14280000.0,1.0,,,,,,,3.13
+Span.IO,span.io,San Francisco,CA,United States,219,,Environmental,51922500.0,24.0,"Energy, Renewable Energies, Renewable Tech",,,,,112100000.0,0.75
+Cerby,cerby.com,San Francisco,CA,United States,62,2020.0,Tech Services,8352000.0,1.0,,,,,,,2.26
+Persona Identities,withpersona.com,San Francisco,CA,United States,226,2018.0,IT Security,51974100.0,1.0,"Security, Developer APIs, Fraud Detection, Identity Management, Identity, Online Identity, Identity Theft Protection",,,,1500000000.0,217500000.0,0.84
+Uptycs,uptycs.com,Waltham,MA,United States,298,2016.0,IT Security,81092040.0,1.0,"Enterprise Security, Information Security, Cyber Security, Cloud Security",,,,,93000000.0,0.55
+Genesis Global Technology,genesis.global,New York,NY,United States,257,2012.0,Fintech,37732500.0,1.0,,"Tribeca Angels, Illuminate Financial",,,,249800000.0,0.26
+ConnexPay,connexpay.com,Minneapolis,MN,United States,77,,Fintech,10530000.0,1.0,,,,,,35100000.0,0.79
+Nomi Health,nomihealth.com,Orem,UT,United States,459,,Digital Health,88375000.0,1.0,,,,,,110000000.0,1.24
+Alma,helloalma.com,New York,NY,United State,558,2018.0,Hospital/Healthcare,272160000.0,,,,,,,,0.94
+Sana Benefits,sanabenefits.com,Austin,TX,United States,279,2017.0,Fintech,40946750.0,5.0,"Healthcare, Insurance, Health and Insurance, Fin Tech",,,,,46800000.0,0.48
+Vouch Insurance,vouch.us,San Francisco,CA,United States,212,,Fintech,31164250.0,25.0,"Insurance, Technology",,,,550000000.0,184200000.0,0.24
+Clever Real Estate,listwithclever.com,St Louis,MO,United States,104,2017.0,Real Estate,16350000.0,11.0,,,,,,13200000.0,0.68
+Mansfield Public School,,Mansfield,AR,United States,181,,Hospital/Healthcare,69201000.0,1.0,,,,,,,2.48
+Talkiatry,talkiatry.com,New York,NY,United States,315,,Digital Health,60725000.0,1.0,,,,,,37000000.0,1.46
+St. Croix Hospice,stcroixhospice.com,Oakdale,MN,United States,565,,Hospital/Healthcare,275562000.0,1.0,,,,,,,0.2
+Tackle.io,tackle.io,Newton,MA,United States,329,2016.0,Martech,61341000.0,1.0,,"Andreessen Horowitz, Bessemer Venture Partners, Coatue Management",,,1250000000.0,148300000.0,0.87
+Fund That Flip,fundthatflip.com,New York,NY,United States,206,,Real Estate,34830000.0,1.0,,,,,,33200000.000000004,2.17
+Xealth,xealth.io,Seattle,WA,United States,87,2017.0,Digital Health,12740000.0,5.0,"Health Care Information Technology, Health and Wellness, Heathcare, Digital Health",,,,,52500000.0,0.4
+VNDLY,vndly.com,Cincinnati,OH,United States,158,2017.0,Tech Services,25875250.0,3.0,,,,,,58000000.0,0.44
+Lacework,lacework.com,San Jose,CA,United States,985,2015.0,IT Security,301638480.0,34.0,saas,"Sutter Hill Ventures, Liberty Global Ventures, Coatue Management",,,8300000000.0,1900000000.0,1.46
+Truebill,truebill.com,Silver Spring,MD,United States,220,,Fintech,32282250.0,23.0,Personal Finance,,,,,83900000.0,0.2
+Walnut,walnut.io,New York,NY,United States,128,2020.0,Tech Services,19285000.0,1.0,,,,,,,1.29
+TigerConnect,tigerconnect.com,Santa Monica,CA,United States,275,2010.0,Digital Health,43494500.0,1.0,saas,,,,,400400000.0,0.14
+Foxtrot Ventures,foxtrotco.com,Chicago,IL,United States,302,2013.0,Tech Services,58375550.0,35.0,saas,,,,,166800000.0,0.4
+SOCi,meetsoci.com,San Diego,CA,United States,659,2012.0,Martech,123037600.0,54.0,"Advertising,Analytics,Human Resources Hr,Marketing,Marketing Analytics, saas saas",Vertical Venture Partners,,B2B,,117800000.0,0.52
+Thentia,thentia.com,Toronto,ON,CAN,143,2014.0,Tech Services,23381250.0,1.0,,,,,,27500000.0,0.4
+Persefoni,persefoni.com,TEMPE,AZ,United States,308,,Analytics,57429400.0,1.0,,,,,,114200000.0,0.81
+GTCR,gtcr.com,Chicago,IL,United States,190,1980.0,Finance,45150000.0,1.0,"Finance,Healthcare,Pharmaceuticals",,,B2B,,,0.4
+QuotaPath,quotapath.com,Philadelphia,PA,United States,96,,Tech Services,14645000.0,1.0,,,,,,29800000.0,0.39
+TPG Sixth Street Partners,tpg.com,San Francisco,CA,United States,543,2009.0,Investments,114451130.0,1.0,,Bono,,,,47800000000.0,0.4
+Guideline Technologies,guideline.com,San Mateo,CA,United States,421,2015.0,Fintech,97243900.0,25.0,"Banking,Finance,Human Resources Hr",Tiger Global Management,,,,339000000.0,0.25
+FLYR,flyrlabs.com,San Francisco,CA,United States,338,2013.0,Fintech,58610500.0,4.0,"Finance,Travel",Peter Thiel,,B2B,,187300000.0,0.78
+Contra,contra.com,San Francisco,CA,United States,126,2019.0,Fintech,23023000.0,1.0,,,,,,44500000.0,2.94
+Great Hill Partners,greathillpartners.com,Boston,MA,United States,95,1998.0,Finance,21000000.0,1.0,,,,,,,0.22
+Beacon Pointe,beaconpointe.com,Newport Beach,CA,United States,353,2002.0,Fintech,61252100.0,1.0,,,,,,,0.19
+Stairwell,stairwell.com,Palo Alto,CA,United States,64,2019.0,IT Security,11891160.0,1.0,,,,,,24500000.0,2.05
+CyCognito,cycognito.com,Palo Alto,CA,United States,174,2017.0,IT Security,40131900.0,1.0,Cyber Security,,,,800000000.0,153000000.0,0.63
+Osmind,osmind.org,Mountain View,CA,United States,81,,Hospital/Healthcare,28080000.0,1.0,,,,,,,1.19
+DigiLens,digilens.com,Sunnyvale,CA,United States,85,2003.0,Tech Services,12905000.0,3.0,"Automotive,Cleantech,Hardware,Hardware Peripherals,Healthcare,Medical Devices,Pharmaceuticals,Solar Power,Wind Power","Niantic, Inc, Diamond Edge Ventures",,B2B,,110000000.0,0.31
+Swimlane,swimlane.com,Louisville,CO,United States,186,2014.0,IT Security,42763500.0,2.0,"saas, Data Storage,Enterprise Software,Information Security,Physical Security,Security,Storage",,,B2B,,84900000.0,0.33
+Securitize,securitize.io,San Francisco,CA,United States,117,2017.0,Fintech,22919000.0,1.0,,,,,,100200000.0,0.04
+Legacy,givelegacy.com,Boston,MA,United States,127,2017.0,Digital Health,18620000.0,1.0,"Healthcare, Personal Health, Health and Wellness, Fertility",,,,,20200000.0,0.32
+Iterative Scopes,iterativescopes.com,Boston,MA,United States,176,,AI,28952000.0,1.0,,,,,,193600000.0,0.32
+Skyryse,skyryse.com,Hayward,CA,United States,88,2016.0,Tech Services,13340000.0,4.0,Transportation,,,,,240500000.0,0.57
+Form Energy,formenergy.com,Somerville,MA,United States,373,2017.0,Environmental,104546400.0,28.0,"Clean Technology, Clean Energy, Batteries, Renewable Energies",,,,,368800000.0,0.73
+Gravie,gravie.com,Minneapolis,MN,United States,234,2013.0,Digital Health,37023000.0,1.0,"Enterprise Software,Finance,Health Insurance,Healthcare,Healthcare Providers,Human Resources Hr,Insurance",,,B2B,,72100000.0,0.89
+Nature's Fynd,naturesfynd.com,Chicago,IL,United States,158,2012.0,Food,48181500.0,1.0,,,,,1000000000.0,509600000.0,0.16
+Payment Rails,paymentrails.com,Montreal,QC,CAN,87,2015.0,Tech Services,13195000.0,1.0,,,,,,CA$10.1M,3.58
+Built Technologies,getbuilt.com,Nashville,TN,United States,473,2014.0,Fintech,82054700.0,4.0,"saas, Banking,Finance",Index Ventures,,,,289100000.0,0.44
+Wahed,wahedinvest.com,New York,NY,United States,203,2015.0,Fintech,39689000.0,1.0,Finance,"Cue Ball Capital, BECO Capital",,,100000000.0,40000000.0,0.28
+Matador,matadorapp.com,New York,NY,United States,267,2017.0,Fintech,26971750.0,1.0,,,,,,3200000.0,0.28
+Bounce,usebounce.com,San Francisco,CA,United States,52,2018.0,Tech Services,7047000.0,1.0,,,,,,,2.25
+Logixboard,logixboard.com,Seattle,WA,United States,130,,Tech Services,19865000.0,1.0,,,,,,50800000.0,1.13
+Palmetto,palmetto.com,Charleston,SC,United States,565,2010.0,Environmental,158153100.0,6.0,,,,,,478300000.0,0.11
+Palmetto,palmetto.com,Charleston,SC,United States,565,2009.0,Environmental,158153100.0,6.0,,,,,,478300000.0,0.11
+Cowbell,cowbell.insure,Pleasanton,CA,United States,258,2019.0,Fintech,37872250.0,1.0,"Insurance, Startups, Cyber Security, Insurtech",,,,,23600000.0,0.54
+LK,luknetwork.com,Los Angeles,CA,United States,168,2016.0,Tech Services,27912500.0,1.0,,,,,,,3.54
+AssemblyAI (YC S17),assemblyai.com,San Francisco,CA,United States,68,2017.0,Tech Services,9265500.0,1.0,,,,,,,1.96
+Project Canary,projectcanary.com,Denver,CO,United States,128,,Environmental,35112000.0,1.0,,,,,,,1.1
+Nature's Fynd,naturesfynd.com,Chicago ,IL,United States,150,2012.0,Food,45859500.0,1.0,,,,,1000000000.0,509600000.0,0.09
+Florence Healthcare,florencehc.com,Atlanta,GA,United States,290,2014.0,Digital Health,54229000.0,1.0,saas,,,,,88800000.0,0.53
+ChargeAfter,chargeafter.com,New York,NY,United States,105,2016.0,Fintech,14300000.0,4.0,"Financial Services, Payments, Point of Sale, Ecommerce, Fin Tech",,,,,17000000.0,0.21
+Capacity,capacity.com,St Louis,MO,United States,109,2017.0,AI,16530000.0,21.0,saas,,,,,61500000.0,0.06
+Slingshot Aerospace,slingshotaerospace.com,El Segundo,CA,United States,145,2016.0,Tech Services,23693000.0,1.0,"Aerospace, Geospatial, Big Data Analytics, Insurtech",,,,,69700000.0,1.07
+Updater,updater.com,New York,NY,United States,183,2011.0,eCommerceTech,28896000.0,1.0,saas saas,,,,1100000000.0,252500000.0,0.5
+Courier,courier.com,San Francisco,CA,United States,174,2019.0,Tech Services,28869500.0,1.0,,,,,,,2.78
+Cooks Venture,cooksventure.com,New York,NY,United States,88,2018.0,Food,24840000.0,1.0,,,,,,39800000.0,0.21
+Trust and Will,trustandwill.com,San Diego,CA,United States,92,2017.0,Fintech,12610000.0,2.0,"Legal, Finance Technology, Legal Tech, Estate Planning",,,,,14600000.0,0.19
+Osso VR,ossovr.com,Palo Alto,CA,United States,221,2016.0,Hospital/Healthcare,67338000.0,8.0,,,,,,43200000.0,0.45
+Celo,celo.org,San Francisco,CA,United States,104,2017.0,Fintech,14170000.0,11.0,"Payments, Finance, Cryptocurrency, Blockchains, Developing World, Fin Tech, Blockchain / Cryptocurrency",,,,,66500000.0,0.39
+LambdaTest,lambdatest.com,San Francisco,CA,United States,384,2017.0,DevOps,71653400.0,32.0,"devops, saas",Leo Capital,,,,25000000.0,0.31
+Arsenal Capital Partners,arsenalcapital.com,New York,NY,United States,132,2000.0,Investments,31553000.0,1.0,,,,,,,0.19
+Angelo Gordon,angelogordon.com,New York,NY,United States,634,1988.0,Investments,192001140.0,1.0,,,,,,,0.11
+Lightstone,lightstonegroup.com,New York,NY,United States,232,1988.0,Real Estate,39345000.0,4.0,"Finance,Real Estate",,,,,644000000.0,0.17
+CloudBees,cloudbees.com,San Jose,CA,United States,524,2010.0,DevOps,97790000.0,44.0,"saas, Cloud Computing,Data Storage,Enterprise Software,Human Resources Hr,Information Security,Security,Storage","Matrix Partners, Lightspeed Venture Partners, Verizon Ventures",,B2B,1000000000.0,356200000.0,0.16
+OpenFin,openfin.co,New York,NY,United States,107,2010.0,Fintech,14560000.0,1.0,"saas, Finance,Human Resources Hr,Information Security,Security,Software Development","Bain Capital Ventures, Pivot Investment Partners",,B2B,,47000000.0,0.18
+Branch International,branch.co,San Francisco,CA,United States,238,2015.0,Fintech,34937500.0,3.0,"Mobile, Financial Services, Emerging Markets",,,,,274300000.0,0.16
+Stellar Cyber,stellarcyber.ai,Santa Clara,CA,United States,101,2015.0,IT Security,21624000.0,1.0,,,,,,59800000.0,1.02
+Ordr,ordr.net,Santa Clara,CA,United States,112,2015.0,IT Security,24072000.0,2.0,,,,,,54000000.0,0.15
+Fundbox,fundbox.com,San Francisco,CA,United States,244,2012.0,Fintech,35776000.0,4.0,"Financial Services, B2B, Payments, Machine Learning, Finance, Fin Tech","Khosla Ventures, General Catalyst, Blumberg Capital",,,1100000000.0,553500000.0,0.01
+W2O Group,w2ogroup.com,San Francisco,CA,United States,199,2001.0,Martech,31454500.0,1.0,,,,,,,0.3
+Lively HSA,livelyme.com,San Francisco,CA,United States,186,2016.0,Fintech,27251250.0,1.0,saas,,,,,31000000.0,0.44
+Axiado Corporation,axiado.com,San Jose,CA,United States,60,,IT Security,11181240.0,1.0,,,,,,45000000.0,1.0
+Reachdesk,reachdesk.com,New York,NY,United States,211,2018.0,Martech,33411000.0,11.0,"CRM, Marketing Automation, New York, London, UK",,,,,49000000.0,1.81
+Tala,tala.co,Santa Monica,CA,USA,657,2012.0,Fintech,113919000.0,10.0,saas,Paypal,,,,389400000.0,0.21
+Acceldata,acceldata.io,Palo Alto,CA,United States,194,2018.0,Analytics,30702000.0,1.0,"Big Data, Cloud Data Services, Application Performance Monitoring",,,,,45600000.0,1.85
+Corelight,corelight.com,San Francisco,CA,United States,278,2013.0,IT Security,64035600.0,1.0,"Enterprise Security, Data Security, Network Security, Cyber Security",General Catalyst,,,,159200000.0,0.28
+OpenReplay,openreplay.com,San Francisco,CA,USA,74,,Tech Services,11165000.0,1.0,,,,,,,2.7
+Sepio Systems,sepio.systems,Rockville,MD,United States,95,2016.0,IT Security,20400000.0,1.0,,,,,,14800000.0,0.56
+Exabeam,exabeam.com,San Mateo,CA,United States,722,2013.0,DevOps,151751600.0,99.0,"saas, Analytics,Enterprise Software,Human Resources Hr,Information Security,Physical Security,Security",Lightspeed Venture Partners,,B2B,2400000000.0,390000000.0,0.17
+GSOBA,linkedin.com,Palo Alto,CA,United States,376,2017.0,Tech Services,72739250.0,14.0,saas,,,,,388000000.0,1.96
+Appfire,appfire.com,Burlington,MA,United States,547,,Tech Services,105702100.0,8.0,,,,,,149000000.0,0.96
+ABA Centers of America,abacenters.com,Nashua,NH,United States,194,,Hospital/Healthcare,74250000.0,1.0,,,,,,,3.41
+Incode Technologies,incode.com,San Francisco,CA,United States,302,2015.0,IT Security,82128360.0,1.0,saas,"Dila Capital, Framework Ventures, 3L",,,1250000000.0,257100000.00000003,1.38
+SiMa.ai,sima.ai,San Jose,CA,United States,146,2018.0,Tech Services,23848875.0,1.0,,,,,,110000000.0,0.4
+SK Capital Partners,skcapitalpartners.com,New York,NY,United States,80,,Investments,13231830.0,17.0,,,,,,,0.21
+FingerprintJS,fingerprintjs.com,Chicago,IL,United States,145,2019.0,Tech Services,23693000.0,1.0,Fraud Detection,,,,,44000000.0,0.96
+Titan Invest,titanvest.com,New York,NY,United States,256,,Fintech,37592750.0,1.0,"Mobile, Financial Services, Hedge Funds, Finance Technology, Consumer",,,,450000000.0,73000000.0,0.95
+W. P. Carey,wpcarey.com,New York,NY,United States,260,1973.0,Real Estate,1280000000.0,1.0,,,,,14746000000.0,,0.1
+Conductor,conductor.com,New York,NY,United States,558,2008.0,Martech,104190800.0,39.0,saas,Catalyst Investors,,,525000000.0,210600000.0,0.49
+General Fusion,generalfusion.com,Burnaby,BC,CAN,193,2002.0,Environmental,45827250.0,1.0,,,,,,322100000.0,0.38
+LeanTaaS,leantaas.com,Santa Clara,CA,United States,326,2010.0,Digital Health,60807600.0,1.0,"Analytics,Healthcare,Healthcare Providers,Pharmaceuticals",Insight Venture Partners,,B2B,,237700000.0,0.2
+UserZoom,userzoom.com,San Jose,CA,United States,456,2007.0,Tech Services,88207850.0,12.0,"SaaS,Analytics,Developer Tools,Enterprise Software,Human Resources Hr,Marketing,Marketing Analytics",,,B2B,,136400000.0,0.07
+Choreo,choreoadvisors.com,Chicago,IL,United States,157,,Finance,43428000.0,1.0,,,,,,,3.36
+Measurabl,measurabl.com,San Diego,CA,United States,268,2013.0,DevOps,42290500.0,3.0,"saas, Analytics,Cleantech,Finance,Human Resources Hr,Information Security,Security","Sway Ventures,, Constellation Technology Ventures",,B2B,,79600000.0,0.93
+Diligent Robotics,diligentrobots.com,Austin,TX,United States,169,,Digital Health,26638500.0,3.0,"Healthcare, Robotics, Artificial Intelligence",,,,,15900000.0,0.92
+Hummingbird,hummingbird.co,San Francisco,CA,United States,100,2016.0,Fintech,13650000.0,1.0,saas,,,,,41200000.0,0.92
+Lemonade Finance,lemonade.finance,Milton,ON,CAN,69,2020.0,Finance,17430000.0,1.0,,,,,,,2.63
+Realty Income Corp,realtyincome.com,San Diego,CA,United States,504,1969.0,Real Estate,1820000000.0,1.0,,,,,40452000000.0,6300000000.0,0.03
+Seeq Corporation,seeq.com,Seattle,WA,United States,210,2013.0,Analytics,33260500.0,1.0,saas,Altira Group,,,,115200000.0,0.05
+National Retail Properties,nnnreit.com,Orlando,FL,United States,156,1984.0,Real Estate,702430000.0,1.0,,,,,8226000000.0,650100000.0,0.05
+Mission Lane,missionlane.com,San Francisco,CA,United States,511,2018.0,Fintech,88658700.0,31.0,"Financial Services, Finance, Credit",,,,,650000000.0,0.44
+GOQii,goqii.com,California ,CA,United States,286,2014.0,Digital Health,45150000.0,1.0,"Fitness, Consumer Electronics, Personal Health, Lifestyle",,,,,102600000.0,0.05
+Halo Investing,haloinvesting.com,Chicago,IL,United States,146,2015.0,Investments,37335825.0,1.0,"Trading, Payment Systems, Fin Tech",,,,,115100000.0,0.19
+LendingUSA,lendingusa.com,Sherman Oaks,CA,United States,81,2015.0,Finance,17850000.0,1.0,,,,,,760000000.0,0.04
+Chooch AI,chooch.ai,San Mateo,CA,United States,70,,AI,9013200.0,1.0,,,,,,25800000.0,0.03
+PayCargo,paycargo.com,Miami,FL,United States,100,2007.0,Fintech,13650000.0,1.0,,,,,,160000000.0,0.32
+Aspiration.com,aspiration.com,Marina Del Rey,CA,United States,425,,Fintech,73634600.0,18.0,"Banking,Finance,Investment Services,Payments",Renren,,B2B,,250000000.0,0.3
+8minute Solar Energy,8minute.com,Los Angeles,CA,United States,201,2009.0,Environmental,47633250.0,1.0,"Solar, Residential Solar, Commercial Solar",,,,,855000000.0,0.18
+ZUM,ridezum.com,Redwood City,CA,United States,160,,Tech Services,26187000.0,11.0,"Mobile, Mobile Commerce, Families, Parenting, Transportation, Underserved Children, Child Care, Ride Sharing",BMW i Ventures,,,130000000.0,208000000.0,0.24
+Recuro Health,recurohealth.com,Coppell,TX,USA,73,,Digital Health,11200000.0,1.0,,,,,,,1.43
+Paxos,paxos.com,New York,NY,United States,351,2013.0,Fintech,81064100.0,2.0,"Financial Services, Blockchains, Financial Technology, Blockchain / Cryptocurrency","Liberty City Ventures, RRE Ventures",,,2400000000.0,538500000.0,0.41
+GlossGenius,glossgenius.com,New York,NY,United States,136,,Tech Services,22489500.0,1.0,,,,,,,2.58
+SamCart,samcart.com,Austin,TX,United States,131,2014.0,eCommerceTech,19320000.0,1.0,"E-Commerce, E-Commerce Platforms, Ecommerce",,,,,13000000.0,0.58
+CareStack,carestack.com,Orlando,FL,United States,483,2012.0,Digital Health,90144600.0,1.0,"digital health, healthtech, saas",,,,,74100000.0,0.26
+ezCater,ezcater.com,Boston,MA,United States,710,2007.0,eCommerceTech,149349200.0,7.0,"saas, Marketplace,Metamediary,On-Demand,Consumer Services,E-Commerce,Food & Beverages,Hospitality",Wellington Management Company,,B2B,1600000000.0,420800000.0,0.43
+BlueNalu,bluenalu.com,San Diego,CA,United States,56,2017.0,Food,13859100.0,2.0,,,,,,84800000.0,0.17
+Vantage Data Centers,vantage-dc.com,Denver,CO,United States,849,2010.0,Tech Services,,,,,,,,,0.6
+Crossbeam,crossbeam.com,Philadelphia,PA,United States,114,2018.0,Tech Services,17400000.0,1.0,saas,,,,,116900000.0,0.25
+Plenty,plenty.ag,South San Francisco,CA,United States,432,2013.0,Food,155676600.0,27.0,"Advanced Materials, Machine Learning, Big Data, Agriculture, Water, Sustainability, Adtech",SoftBank Vision Fund,,,,941000000.0,0.09
+Benson Hill,bensonhill.com,St Louis,MO,United States,318,2012.0,Food,35000000.0,,,,,,,,0.07
+Align Capital Partners,aligncp.com,Shaker Heights,OH,USA,29,2016.0,Investments,5175600.0,,,,,,,,0.12
+Karbon,karbonhq.com,Sausalito,CA,United States,167,2014.0,Tech Services,27278125.0,1.0,saas,,,,,91800000.0,0.23
+Karbon,karbonhq.com,Sausalito,CA,United States,167,,Tech Services,27753000.0,1.0,,,,,,,0.23
+Redwood Materials,redwoodmaterials.com,Carson City,NV,United States,405,,Environmental,113347500.0,1.0,,,,,3700000000.0,792000000.0,1.34
+The Mather Group,themathergroup.com,Chicago,IL,United States,150,2011.0,Investments,40451400.0,1.0,,,,,,,0.08
+Stytch,stytch.com,San Francisco,CA,United States,82,,Tech Services,12470000.0,1.0,,"Index Ventures, Benchmark, Thrive Capital",,,1000000000.0,126300000.0,0.78
+FullStory,fullstory.com,Atlanta,GA,United States,574,2014.0,Martech,107213400.0,1.0,"Analytics,Customer Support,E-Commerce,Human Resources Hr,Marketing,Marketing Analytics, martech, saas","Google Ventures, Salesforce",,B2B,1800000000.0,172200000.0,0.02
+Vytalize Health,vytalizehealth.com,Hoboken,NJ,USA,230,2014.0,Digital Health,38962000.0,1.0,"Healthcare, Medical, Health Care Information Technology, Mobile Health",,,,,,1.64
+FirstClose,firstclose.com,Austin,TX,United States,62,2000.0,Fintech,7351500.0,1.0,"Banking,Finance",Cypress Growth Capital,,,,34700000000.0,0.77
+St. Mary's Regional Medical Center,stmarysregional.com,Enid,OK,United States,231,1915.0,Hospital/Healthcare,88506000.0,1.0,,,,,,,3.2
+SentiLink,sentilink.com,San Francisco,CA,United States,88,,Tech Services,13340000.0,1.0,,,,,,84000000.0,0.76
+NewtonX,newtonx.com,New York,NY,United States,226,,Tech Services,36942375.0,5.0,"B2B, Marketplaces, Artificial Intelligence","XFund, Third Prime Capital",,,,47000000.0,0.74
+Electric Hydrogen,eh2.com,Natick,MA,USA,151,,Environmental,41580000.0,1.0,,,,,,,1.6
+Aquant,aquant.io,New York,NY,United States,163,2016.0,Tech Services,26654625.0,4.0,saas,,,,,115600000.0,0.16
+Capital Rx,cap-rx.com,New York,NY,United States,383,2017.0,Hospital/Healthcare,137845800.0,23.0,,,,,,97000000.0,0.14
+Alida,alida.com,Toronto,ON,CAN,421,,Tech Services,81394300.0,1.0,,,,,,84400000.0,0.14
+Upgrade,upgrade.com,San Francisco,CA,United States,908,2016.0,Fintech,177162700.0,38.0,"saas, Education,Healthcare,Pharmaceuticals,Physical Security,Security",CreditEase Fintech Investment Fund,,,6280000000.0,587000000.0,0.37
+spectro cloud,spectrocloud.com,Santa Clara,Ca,United States,128,2019.0,Tech Services,19285000.0,1.0,,,,,,,0.73
+AutoRABIT,autorabit.com,San Ramon,CA,United States,220,2009.0,Fintech,32282250.0,3.0,"fintech, saas",,,,,27000000.0,0.15
+Full,alviere.com,New York,NY,United States,138,2020.0,Fintech,25311000.0,1.0,,,,,,,0.15
+Outrider,outrider.ai,Golden,CO,United States,180,2017.0,Tech Services,29460375.0,12.0,saas,,,,,118000000.0,0.09
+1111 SYSTEMS,1111systems.com,Fairfield,NJ,USA,593,2020.0,Tech Services,109016800.0,1.0,,,,,,586000000.0,1.66
+Emilio Health,emiliohealth.com,Palo Alto,CA,United States,240,2019.0,Digital Health,37926000.0,19.0,,,,,,104000000.0,0.08
+Zero Hash,zerohash.com,Chicago,IL,United States,156,2017.0,Fintech,31174000.0,1.0,,,,,,169900000.0,1.0
+Cohere,cohere.com,Toronto,ON,CAN,270,,AI,40700000.0,1.0,,Inovia Capital,,,2200000000.0,56100000.0,1.41
+MetaMap,metamap.com,San Francisco,CA,United States,422,2017.0,Fintech,96037500.0,1.0,,,,,,,0.38
+Sweeping Corporation of America,sweepingcorp.com,Cleveland,OH,United States,286,,Environmental,67725000.0,1.0,,Comerica Incorporated,,,,60000000.0,0.12
+Turquoise Health,turquoise.health,San Diego,CA,United States,66,2020.0,Tech Services,9004500.0,1.0,,,,,,,1.54
+VAST data,vastdata.com,New York,NY,United States,469,2016.0,Analytics,87477600.0,13.0,,Norwest Venture Partners,,,3700000000.0,263000000.0,0.37
+data.world,data.world,Austin,TX,United States,209,,Analytics,32959500.0,1.0,saas,,,,,82300000.0,0.4
+Aetion,aetion.com,New York,NY,United States,331,2012.0,Digital Health,61874400.0,5.0,"Healthcare,Pharmaceuticals, saas",New Enterprise Associates (NEA),,,,203600000.0,0.22
+Theta Lake,thetalake.com,Santa Barbara,CA,United States,99,2017.0,AI,14560000.0,1.0,,,,,,17700000.0,0.68
+Netradyne,netradyne.com,San Diego,CA,United States,557,2015.0,Analytics,104013000.0,1.0,"Analytics,Transportation",M12,,B2B,,197500000.0,0.48
+Petros PACE Finance,petros-pace.com,Austin,TX,United States,40,2010.0,Finance,6703200.0,1.0,,,,,,10000000.0,0.08
+H1,h1insights.com,New York,NY,United States,483,,Tech Services,93364050.0,1.0,,,,,,170900000.0,0.07
+Narmi,narmi.com,New York,NY,United States,100,2016.0,Fintech,13650000.0,1.0,"Banking, Finance Technology, Credit Unions, Fin Tech",,,,,20500000.0,0.67
+H1,h1insights.com,New York,NY,United States,514,2017.0,Digital Health,96012000.0,37.0,saas,,,,,170900000.0,0.18
+Provide,getprovide.com,San Francisco,CA,United States,217,,Finance,60060000.0,1.0,,,,,,,3.09
+Clearlake Capital Group,clearlake.com,Santa Monica,CA,United States,111,2006.0,Investments,26559000.0,1.0,,,,,,24200000000.0,0.37
+Heap,heap.io,San Francisco,CA,United States,363,2013.0,Analytics,67741800.0,2.0,saas,,,,,218100000.0,0.62
+Luxury Presence,luxurypresence.com,Santa Monica,CA,United States,552,,Martech,103124000.0,1.0,"Real Estate, Advertising",,,,,31300000.0,0.74
+Raydiant,raydiant.com,San Francisco,CA,United States,146,2017.0,Martech,23026500.0,1.0,"Information Technology, Retail Technology, Digital Signage, Digital Entertainment, Internet of Things, Customer Experience",,,,,25000000.0,0.08
+Comet ML,comet.ml,New York,NY,United States,102,2017.0,Tech Services,15515000.0,1.0,saas,,,,,69800000.0,0.65
+Comet.ml,comet.ml,New York,NY,United States,102,2017.0,AI,14980000.0,1.0,saas,,,,,69800000.0,0.65
+Pattern,pattern.com,Lehi,UT,United States,716,2013.0,eCommerceTech,150550400.0,1.0,,,,,2250000000.0,277000000.0,0.31
+Alpha Medical,helloalpha.com,Palo Alto,CA,United States,151,2017.0,Digital Health,25564000.0,1.0,,,,,,,2.36
+Octave,findoctave.com,New York,NY,United States,236,2018.0,Hospital/Healthcare,71982000.0,1.0,,,,,,34000000.0,1.07
+RoadRunner Recycling,roadrunnerwm.com,Pittsburgh,PA,United States,586,2014.0,Environmental,164020500.0,23.0,"Logistics, Waste Management, Recycling",,,,,154100000.0,0.43
+Sysdig,sysdig.com,San Francisco,CA,United States,854,2013.0,IT Security,261672840.0,11.0,saas,,,,2500000000.0,729500000.0,0.45
+Buckle,buckleup.com,Atlanta,GA,United States,284,2017.0,Fintech,57950100.0,1.0,"Insurance, Fin Tech, Ride Sharing, Insurtech",,,,,101000000.0,0.21
+Aircastle Limited,aircastle.com,Stamford,CT,United States,127,2004.0,Finance,750000000.0,1.0,,,,,,100000000.0,0.06
+Trellis,trellis.law,Los Angeles,CA,United States,44,2017.0,Analytics,5376000.0,1.0,,,,,,,1.59
+Self Financial,self.inc,Austin,TX,United States,514,2015.0,Fintech,89154000.0,24.0,"Financial Services, Consumer, Fin Tech, Financial Technology",,,,,127000000.0,0.13
+Embrace,embrace.io,Culver City,CA,United States,125,2016.0,Analytics,18340000.0,1.0,saas,,,,,57000000.0,0.62
+Perch Credit,apps.apple.com,Los Angeles,CA,United States,162,2019.0,Finance,44814000.0,1.0,,,,,,,3.05
+Kintentâ„¢ï¸,kintent.com,Boston,MA,United States,74,,Tech Services,11310000.0,1.0,,,,,,17100000.0,1.47
+Emerline,emerline.com,Mountain View,CA,United States,577,2011.0,Tech Services,108750000.0,1.0,,,,,,,3.4
+Forte,forte.io,San Francisco,CA,United States,145,2018.0,Fintech,28369250.0,1.0,,,,,1000000000.0,910000000.0,0.04
+Collective Health,collectivehealth.com,San Francisco,CA,United States,615,2013.0,Digital Health,114858800.0,40.0,"digital health, healthtech, saas",Google Ventures,,,1500000000.0,719000000.0,0.04
+Honeycomb.io,honeycomb.io,San Francisco,CA,United States,180,2016.0,Tech Services,29460375.0,10.0,saas,e.ventures,,,,85400000.0,0.57
+Cypress Creek Renewables,ccrenew.com,Durham,NC,United States,345,,Environmental,96545400.0,1.0,,,,,,1300000000.0,0.14
+CompStak,compstak.com,New York,NY,United States,153,2011.0,Analytics,24230500.0,8.0,saas,,,,,80900000.0,0.56
+Quantum Metric,quantummetric.com,Monument,CO,United States,528,2014.0,Analytics,98501200.0,38.0,saas,"Insight Partners, Bain Capital Ventures",,,1000000000.0,251000000.0,0.25
+Fathom (YC W21),fathom.video,San Francisco,CA,USA,96,2020.0,Tech Services,14645000.0,1.0,,,,,,,2.31
